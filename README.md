@@ -17,7 +17,7 @@ A fun, interactive Tic-Tac-Toe (X-O) game built with **HTML**, **CSS**, and **Ja
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live website]()
+👉 [Click here to view the live website](https://vaishnavi-patekar.github.io/Tic-Tac-Toe-Game/)
 
 ---
 
